@@ -1,0 +1,16 @@
+{
+  "app": {
+    "versionCode": 101,
+    "versionName": "1.0",
+    "url": "https://github.com/standardgitaccount/TSR/releases"
+  },
+  "data": [
+    {
+      "id": "routing_graph_gb",
+      "title": "GB routing graph",
+      "version": "2026-07-26",
+      "url": "https://github.com/standardgitaccount/TSR/releases/download/graph-2026-07-26/routing_graph_gb.enc",
+      "sizeMb": 454
+    }
+  ]
+}
