@@ -1,6 +1,6 @@
 {
   "app": {
-    "versionCode": 101,
+    "versionCode": 146,
     "versionName": "1.0",
     "url": "https://github.com/standardgitaccount/TSR/releases"
   },
@@ -11,6 +11,20 @@
       "version": "2026-07-26",
       "url": "https://github.com/standardgitaccount/TSR/releases/download/graph-2026-07-26/routing_graph_gb.enc",
       "sizeMb": 454
+    },
+    {
+      "id": "route_pack_hpc_atlas",
+      "title": "HPC Atlas",
+      "version": "2026-07-30",
+      "url": "https://github.com/standardgitaccount/TSR/releases/download/routes-2026-07-30/route_pack_hpc_atlas.enc",
+      "sizeMb": 1
+    },
+    {
+      "id": "offline_maps_gb",
+      "title": "GB offline map",
+      "version": "2026-07-31",
+      "url": "https://github.com/standardgitaccount/TSR/releases/download/maps-2026-07-31/offline_maps_gb.enc",
+      "sizeMb": 1775
     }
   ]
 }
