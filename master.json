@@ -22,9 +22,9 @@
     {
       "id": "offline_maps_gb",
       "title": "GB offline map",
-      "version": "2026-07-31",
-      "url": "https://github.com/standardgitaccount/TSR/releases/download/maps-2026-07-31/offline_maps_gb.enc",
-      "sizeMb": 1775
+      "version": "2026-08-01",
+      "url": "https://github.com/standardgitaccount/TSR/releases/download/maps-2026-08-01/offline_maps_gb.enc",
+      "sizeMb": 716
     }
   ]
 }
