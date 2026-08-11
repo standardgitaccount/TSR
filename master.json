@@ -1,6 +1,6 @@
 {
   "app": {
-    "versionCode": 146,
+    "versionCode": 178,
     "versionName": "1.0",
     "url": "https://github.com/standardgitaccount/TSR/releases"
   },
@@ -25,6 +25,13 @@
       "version": "2026-08-01",
       "url": "https://github.com/standardgitaccount/TSR/releases/download/maps-2026-08-01/offline_maps_gb.enc",
       "sizeMb": 716
+    },
+    {
+      "id": "offline_maps_vector_gb",
+      "title": "GB vector map",
+      "version": "2026-08-10",
+      "url": "https://github.com/standardgitaccount/TSR/releases/download/maps-vector-2026-08-10/offline_maps_vector_gb.enc",
+      "sizeMb": 1405
     }
   ]
 }
