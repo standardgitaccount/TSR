@@ -9,15 +9,15 @@
     {
       "id": "routing_graph_gb",
       "title": "GB routing graph",
-      "version": "2026-07-26",
-      "url": "https://github.com/standardgitaccount/TSR/releases/download/graph-2026-07-26/routing_graph_gb.enc",
-      "sizeMb": 454
+      "version": "2026-11-01",
+      "url": "https://github.com/standardgitaccount/TSR/releases/download/graph-2026-11-01/routing_graph_gb.enc",
+      "sizeMb": 443
     },
     {
       "id": "route_pack_hpc_atlas",
       "title": "HPC Atlas",
-      "version": "2026-07-30",
-      "url": "https://github.com/standardgitaccount/TSR/releases/download/routes-2026-07-30/route_pack_hpc_atlas.enc",
+      "version": "2026-11-04",
+      "url": "https://github.com/standardgitaccount/TSR/releases/download/routes-2026-11-04/route_pack_hpc_atlas.enc",
       "sizeMb": 1
     },
     {
@@ -30,9 +30,16 @@
     {
       "id": "offline_maps_vector_gb",
       "title": "GB vector map",
-      "version": "2026-08-10",
-      "url": "https://github.com/standardgitaccount/TSR/releases/download/maps-vector-2026-08-10/offline_maps_vector_gb.enc",
-      "sizeMb": 1405
+      "version": "2026-11-01",
+      "url": "https://github.com/standardgitaccount/TSR/releases/download/maps-vector-2026-11-01/offline_maps_vector_gb.enc",
+      "sizeMb": 1421
+    },
+    {
+      "id": "place_search_gb",
+      "title": "Place search (GB postcodes & places)",
+      "version": "2026-11-01",
+      "url": "https://github.com/standardgitaccount/TSR/releases/download/search-2026-11-01/place_search_gb.enc",
+      "sizeMb": 45
     }
   ]
 }
