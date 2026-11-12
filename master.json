@@ -30,9 +30,9 @@
     {
       "id": "offline_maps_vector_gb",
       "title": "GB vector map",
-      "version": "2026-11-01",
-      "url": "https://github.com/standardgitaccount/TSR/releases/download/maps-vector-2026-11-01/offline_maps_vector_gb.enc",
-      "sizeMb": 1421
+      "version": "2026-11-12",
+      "url": "https://github.com/standardgitaccount/TSR/releases/download/maps-vector-2026-11-12/offline_maps_vector_gb.enc",
+      "sizeMb": 2004
     },
     {
       "id": "place_search_gb",
