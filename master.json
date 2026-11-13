@@ -40,6 +40,13 @@
       "version": "2026-11-01",
       "url": "https://github.com/standardgitaccount/TSR/releases/download/search-2026-11-01/place_search_gb.enc",
       "sizeMb": 45
+    },
+    {
+      "id": "terrain_gb",
+      "title": "Relief shading & contours (GB)",
+      "version": "2026-11-13",
+      "url": "https://github.com/standardgitaccount/TSR/releases/download/terrain-2026-11-13/terrain_gb.enc",
+      "sizeMb": 137
     }
   ]
 }
